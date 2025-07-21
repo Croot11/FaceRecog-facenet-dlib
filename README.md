@@ -6,7 +6,7 @@ The system is composed of:
 - Camera: Captures facial images
   ![Camera](camera.png)
 - Raspberry pi 4: central processing unit
-  ![Raspi&Screen](Raspi&Screen.png)
+  ![Raspi&Screen](Rapi&Screen.png)
 - Screen: Optional display for user interface
 - Relay: Controls power to the door lock
   ![mô hình cửa](doorModel.png)
